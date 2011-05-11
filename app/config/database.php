@@ -74,13 +74,13 @@
 class DATABASE_CONFIG {
 
 	var $default = array(
-		'driver' => 'mysql',
+		'driver' => 'mysqli',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
-		'prefix' => '',
+		'host' => 'www.heidstra.com',
+		'login' => 'p20085_abg',
+		'password' => 'abg123789',
+		'database' => 'p20085_abg',
+		'prefix' => 'abg_',
 	);
 
 	var $test = array(
