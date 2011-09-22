@@ -48,3 +48,4 @@
  * Inflector::rules('plural', array('rules' => array(), 'irregular' => array(), 'uninflected' => array()));
  *
  */
+setlocale(LC_ALL, "nld_NLD, nl_NL");

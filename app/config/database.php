@@ -76,10 +76,10 @@ class DATABASE_CONFIG {
 	var $default = array(
 		'driver' => 'mysqli',
 		'persistent' => false,
-		'host' => 'www.heidstra.com',
-		'login' => 'p20085_abg',
+		'host' => 'abgtablet.nl',
+		'login' => 'p33393_abg',
 		'password' => 'abg123789',
-		'database' => 'p20085_abg',
+		'database' => 'p33393_abg',
 		'prefix' => 'abg_',
 	);
 
